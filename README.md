@@ -11,7 +11,7 @@ Accepted at CVPR 2023 [[Paper Link](https://arxiv.org/abs/2208.13049)].
   
 
 <p align="center">
-  <img src="[figures/overview.png](https://d3i71xaburhd42.cloudfront.net/89b59789b98219d08209e7864486241ee36050a6/1-Figure1-1.png)" width="800">
+  <img src="(https://d3i71xaburhd42.cloudfront.net/89b59789b98219d08209e7864486241ee36050a6/1-Figure1-1.png)" width="800">
 </p>
 
 
