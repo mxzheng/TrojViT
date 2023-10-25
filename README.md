@@ -7,7 +7,7 @@ Accepted at CVPR 2023 [[Paper Link](https://arxiv.org/abs/2208.13049)].
 
 - We propose a new attack framework, *TrojViT*, to breach the security of ViTs by creating a novel, stealthy, and practical ViT-specific backdoor attack TrojViT.
 
-- We evaluate *TrojViT* on vit, deit ans swin transformer. 
+- We evaluate *TrojViT* on vit, deit and swin transformer. 
   
 
 <p align="center">
