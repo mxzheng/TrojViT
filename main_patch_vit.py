@@ -9,7 +9,6 @@ import time
 from timm import create_model
 #from pytorch_pretrained_vit import ViT
 from models.DeiT import deit_base_patch16_224, deit_tiny_patch16_224, deit_small_patch16_224
-from models.resnet import ResNet50, ResNet152, ResNet101
 from utils import clamp, get_loaders,get_loaders_test,get_loaders_test_small, my_logger, my_meter, PCGrad
 
 import scipy
